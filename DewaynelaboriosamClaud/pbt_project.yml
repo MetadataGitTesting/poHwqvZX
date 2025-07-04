@@ -1,0 +1,50 @@
+name: shelba.mills
+description: website
+version: 0.0.1
+author: 4xszcudb.u3ly2nao@o7ebrtsw.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: shelbamills
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-07-04 21:06:09'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-07-04 21:06:09'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-07-04T21:06:09.214839Z'
+  name: plibMaven
+  version: 8.12.0-SNAPSHOT
+  id: '466133660'
+  createdAt: '2025-07-04T21:06:09.214839Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
